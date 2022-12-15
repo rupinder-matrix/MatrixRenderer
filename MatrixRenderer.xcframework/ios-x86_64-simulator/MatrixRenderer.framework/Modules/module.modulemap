@@ -1,0 +1,4 @@
+framework module MatrixRenderer {
+  header "MatrixRenderer-Swift.h"
+  requires objc
+}
