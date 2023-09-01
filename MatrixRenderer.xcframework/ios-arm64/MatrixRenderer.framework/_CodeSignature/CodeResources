@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/MatrixRenderer-Swift.h</key>
 		<data>
-		MiSJBXmYV/aOzawdcJQJMe/uGpc=
+		OF2EybepaYkZoMegeK9mT1+tV8k=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -48,9 +48,13 @@
 		<data>
 		3AN2MH89pItVG5hsL0829626EkY=
 		</data>
+		<key>Modules/MatrixRenderer.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		9udwgiwVm+hUE+EtrM8GvWAgMfw=
+		</data>
 		<key>Modules/MatrixRenderer.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/Gtc9KqQg+NxpPO+gP0/igro46I=
+		y815cXYyXtnNWggnt2ZykB24kcg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -193,7 +197,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Uc3Uf2ZIZH2pXzJcQGBHJ1K/tMy6PZmo0et/MjnxchI=
+			5aoxkKMr0D2VJMgSs9Wp6avCKAxWJahOsZt+Jxnf+Vs=
 			</data>
 		</dict>
 		<key>JSONFile.json</key>
@@ -217,11 +221,18 @@
 			h+aS9Zq0RY3AV743OCeFd4mCQ3bclW47FqO0/KFdfsE=
 			</data>
 		</dict>
+		<key>Modules/MatrixRenderer.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0y9gRwCr41TDe/tMWby4wX4YDv4+FquJR5tR41iyu6k=
+			</data>
+		</dict>
 		<key>Modules/MatrixRenderer.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o9PnfyTxMjO0bsl5WQ6eqQsTmEcC+H0XhEPYwc7wx3s=
+			RZKAC+ud7fxKm8M7WpXR0tunC8vMFvkeD9a0HRoSA/Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
