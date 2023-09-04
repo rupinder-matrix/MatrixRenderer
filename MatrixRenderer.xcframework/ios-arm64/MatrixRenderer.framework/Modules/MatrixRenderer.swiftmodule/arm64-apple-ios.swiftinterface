@@ -7,6 +7,7 @@ import Foundation
 import LocalAuthentication
 import QuartzCore
 import Swift
+import SwiftUI
 import SystemConfiguration
 import UIKit
 import _Concurrency
@@ -158,6 +159,20 @@ extension MatrixRenderer.PresentViewController {
 }
 extension UIKit.UIAlertController {
   @_Concurrency.MainActor(unsafe) public func show()
+}
+extension UIKit.UIImageView {
+  @_Concurrency.MainActor(unsafe) public func loadGif(name: Swift.String)
+  @_Concurrency.MainActor(unsafe) public func loadUrlGif(url: Swift.String)
+  @_Concurrency.MainActor(unsafe) public func loadDataGif(data: Foundation.Data)
+  @available(iOS 9.0, *)
+  @_Concurrency.MainActor(unsafe) public func loadGif(asset: Swift.String)
+}
+extension UIKit.UIImage {
+  public class func gif(data: Foundation.Data) -> UIKit.UIImage?
+  public class func gif(url: Swift.String) -> UIKit.UIImage?
+  public class func gif(name: Swift.String) -> UIKit.UIImage?
+  @available(iOS 9.0, *)
+  public class func gif(asset: Swift.String) -> UIKit.UIImage?
 }
 @_hasMissingDesignatedInitializers public class DataManager {
   public static let shared: MatrixRenderer.DataManager

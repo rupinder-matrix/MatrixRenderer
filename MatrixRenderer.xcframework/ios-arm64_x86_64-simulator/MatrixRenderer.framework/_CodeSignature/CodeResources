@@ -24,17 +24,21 @@
 		<data>
 		b90QxXSfilnmjzyptpM/3608Ipw=
 		</data>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		xsRuoNtTFQDTLKJmuyyUPnJe8uQ=
+		</data>
 		<key>Headers/AdopshunSDK.h</key>
 		<data>
 		5Kyi2x10z6FVgw8xqSVgm2K5ylM=
 		</data>
 		<key>Headers/MatrixRenderer-Swift.h</key>
 		<data>
-		OF2EybepaYkZoMegeK9mT1+tV8k=
+		MiSJBXmYV/aOzawdcJQJMe/uGpc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		X+Ky1yg7z9pVZvIGMbsrkMbyHeE=
+		YjT6Ys3ziItvRKRwTH6ZRmMy9m0=
 		</data>
 		<key>JSONFile.json</key>
 		<data>
@@ -50,11 +54,11 @@
 		</data>
 		<key>Modules/MatrixRenderer.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AvSnu4R0A8wnYp+V6DKX1/v7i38=
+		krCKt/oXWldyPwjW9SxSheA4V8c=
 		</data>
 		<key>Modules/MatrixRenderer.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rs5GmR9c0m4MkXT4cibIZNByPkE=
+		fjOCBrQd3jCpa0bGrFtZAwJCo9A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -186,6 +190,13 @@
 			PPIR5jLp6seEGcQm/Z+JWsr+pekCAng/mk9rdedgc/E=
 			</data>
 		</dict>
+		<key>GoogleService-Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ueEtHLotH4QSESNm0qHBJeKrPrZvAe7vGKmfszYWvgY=
+			</data>
+		</dict>
 		<key>Headers/AdopshunSDK.h</key>
 		<dict>
 			<key>hash2</key>
@@ -197,7 +208,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5aoxkKMr0D2VJMgSs9Wp6avCKAxWJahOsZt+Jxnf+Vs=
+			Uc3Uf2ZIZH2pXzJcQGBHJ1K/tMy6PZmo0et/MjnxchI=
 			</data>
 		</dict>
 		<key>JSONFile.json</key>
@@ -225,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iPLbFibVzKI+o3ZcrhSVEVxodIQAlLvigVfPtiwn5gA=
+			0EP84d/PA8stF/Z2Zp+mdavHRKUJhC2AU+uVdRfDX9A=
 			</data>
 		</dict>
 		<key>Modules/MatrixRenderer.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xYlEu549sIqY9ArjdYsxDRVAY68h9ExtsA9SQV2Wdy0=
+			t7EINlFxVfYG53nZWLhVHvf03bn4CF7PUzOWKvzUz+I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
