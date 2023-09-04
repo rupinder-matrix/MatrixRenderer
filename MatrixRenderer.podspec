@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
   
   spec.name         = "MatrixRenderer"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "A short description of MatrixRenderer."
   spec.description  = "A framework for testing the pod-spec and test the xcframework"
   spec.homepage     = "https://github.com/rupinder-matrix/MatrixRenderer"
